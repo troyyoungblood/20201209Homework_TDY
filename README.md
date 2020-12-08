@@ -20,7 +20,7 @@ II. DATA ANALYSIS
  
  As written, the instructions are confusing.  Calculate means to do something.  It does not mean just grab a static data point. To generate useful data, I calculated the difference between the initial and final tumor volume.  This value is useful because it can be used to generate a rate and, more importantly, allows for the clear presentation of the effectiveness of the 4 drugs identified when plotted in a box chart. 
  
- The quartiles and IQR and were also quantitatively determined.  An outlier was identified for the Infubinol regimen.
+ The quartiles and IQR and were also quantitatively determined.  An outlier was identified for the Infubinol regimen, mouse id c326..
  
  5) A scatter plot and scatter plot with a linear regression line where plotted.  The correlation coefficeint for the dat was 0.84.
  
@@ -39,17 +39,3 @@ II. DATA ANALYSIS
  5) Scatter plot showing average tumor volume versus mouse weight.
  
  6) A scatter plot with a linear regression line showing average tumor volume versus mouse weight.
-
-
-
-
-* Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
-
-
-
-
-
-
-
-
-
