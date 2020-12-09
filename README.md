@@ -2,7 +2,7 @@
 Homework Set 5
 # Matplotlib Homework - The Power of Plots
 
-Final notebook and images are contained in folder labeled
+Final notebook and images are contained in folder labeled Pymaceuticals_TDY
 
 I. DATA CLEANUP
 
@@ -22,16 +22,16 @@ II. DATA ANALYSIS
   
  III. DATA VISUALIZATION
  
- 1) Bar charts were created showing the number of measurements taken per drug regimen.
+ 1) Bar charts were created showing the number of measurements taken per drug regimen. Image names are pandasbar_measvsregimen.png, pyplotbar_measvsregimen.png
  
- 2) Pie charts were created to show the percentage of overall female and male mice.
+ 2) Pie charts were created to show the percentage of overall female and male mice. Image names are pandaspie_fvmdist.png , pyplotpie_fvmdist.png
  
- 3) A box chart was created to clearly show which drugs were most effective at tumor reduction.
+ 3) A box chart was created to clearly show which drugs were most effective at tumor reduction. boxplot_deltastatistics4reg.png
  The boxt chart plotted Difference in  Tumor Volume (Start - Finish) vs Drug Regimen.
  
- 4) A line chart showing the reduciton in tumor size over time for a select mouse on the Capomulin 
+ 4) A line chart showing the reduction in tumor size over time for a select mouse on the Capomulin tv_time_Capomuline.png
  regimen.
  
- 5) Scatter plot showing average tumor volume versus mouse weight.
+ 5) Scatter plot showing average tumor volume versus mouse weight.  scatter_avgtv_vs_weight_Capomuline.png
  
- 6) A scatter plot with a linear regression line showing average tumor volume versus mouse weight.
+ 6) A scatter plot with a linear regression line showing average tumor volume versus mouse weight.  regression_avg_vs_weight.png
