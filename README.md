@@ -2,6 +2,8 @@
 Homework Set 5
 # Matplotlib Homework - The Power of Plots
 
+Final notebook and images are contained in folder labeled
+
 I. DATA CLEANUP
 
 Before beginning the analysis activities were conducted, a check was conducted to determine if a mouse had duplicate data.  A mouse, ID g989 was identified as having duplicate data for several Timepoints.  The duplicate data was reviewed and determined that the values were close enough together to average the values versus throw the data away.  The respective duplicate row data was averaged, the duplicate rows were removed and the averaged data was inserted into its associated Timepoint row.
